@@ -1,4 +1,3 @@
-```
 # Knowledge Hub
 
 Knowledge Hub is a Django-based project that acts as an information hub. This project utilizes Class-Based Views (CBV) for implementation.
